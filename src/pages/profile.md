@@ -10,7 +10,7 @@ published: true
 schemaType: ProfilePage
 header: Bernardo Nadal-Ginard
 featuredImage:
-  src: /img/pic-executive-banner-profile-01.webp
+  src: /img/dna-hero-image.png
   alt: Bernardo Nadal-Ginard
   caption: null
 connectWithMe: Connect with me
