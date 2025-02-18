@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Bernardo Nadal-Ginard
+jobTitle: Former PI and CEO for Coretherapix
+location: Chestnut Hill, MA
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/bernardo-nadal-ginard.png
+  alt: Bernardo Nadal-Ginard
+siteUrl: https://www.bernardonadalginard.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/bernardo-nadal-ginard-4459a642
     label: Visit
     show: true
   pinterest:
