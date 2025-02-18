@@ -7,5 +7,5 @@ menuItems:
   - slug: /profile
     label: About
   - slug: /blog
-    label: Blog
+    label: Publications
 ---
