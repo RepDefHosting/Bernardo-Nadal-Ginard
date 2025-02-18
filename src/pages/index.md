@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/pic-executive-main-banner-01.webp
+  src: /img/dna-hero-image.png
   alt: Hero Image for home page
   caption: null
 header: Client Name
