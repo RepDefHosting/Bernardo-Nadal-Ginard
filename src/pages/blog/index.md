@@ -10,7 +10,7 @@ metaDescription: A researcher from Chestnut Hill, Massachusetts, Bernardo
   Madrid, Spain..
 published: true
 schemaType: WebPage
-header: Dr. Bernardo Nadal-Ginard Publications
+header: Bernardo Nadal-Ginard Publications
 featuredImage:
   src: /img/pic-executive-banner-blog-01.webp
   alt: Blog
